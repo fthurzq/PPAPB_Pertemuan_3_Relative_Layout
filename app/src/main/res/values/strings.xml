@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PT XYZ</string>
+    <string name="location">Sleman</string>
+    <string name="information">Informasi perubahan data katalog</string>
+    <string name="last_info">Pembaruan terakhir:</string>
+    <string name="next_info">Pembaruan selanjutnya:</string>
+    <string name="last_desc">16–06–2022 15:00:01</string>
+    <string name="next_desc">17–06–2022 15:00:01</string>
+    <string name="txt_catalog">Katalog Tender</string>
+    <string name="txt_tender">Tender Tersimpan</string>
+    <string name="txt_statistic">Laporan Statistik</string>
+    <string name="txt_set">Pengaturan</string>
+</resources>

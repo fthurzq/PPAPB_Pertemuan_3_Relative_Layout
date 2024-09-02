@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <!-- Warna background button -->
+            <solid android:color="@android:color/white" />
+
+            <!-- Radius untuk sudut button -->
+            <corners android:radius="9dp" />
+
+            <!-- Warna border button -->
+            <stroke android:width="2dp" android:color="@color/grey" />
+
+            <!-- Padding untuk membuat shadow pada sisi kanan dan bawah -->
+            <padding
+                android:left="2dp"
+                android:right="2dp"
+                android:bottom="6dp" />
+        </shape>
+    </item>
+</selector>
